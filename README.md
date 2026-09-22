@@ -1,2 +1,5 @@
-# iris-prospect-calibration-20260921
-Harmless fictional Iris engineering calibration corpus; no real company or confidential data.
+# Fictional engineering document library
+
+Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials.
+
+No actual exposure or real company is represented. These are passive calibration artifacts, not software to execute.

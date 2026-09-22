@@ -1,0 +1,4 @@
+Iris Fictional Cedarfall Labs
+Confidential internal use only proprietary source code. Build log demonstration. compiler demo 0.0.0; workspace fictional-project; artifact demo-library; all operations are inert text.
+
+Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials.

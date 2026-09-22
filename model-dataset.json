@@ -1,0 +1,12 @@
+{
+  "owner": "Iris Fictional Cedarfall Labs",
+  "classification": "Confidential internal use only",
+  "description": "training data fine-tuning instruction dataset evaluation sets golden datasets",
+  "records": [
+    {
+      "input": "fictional sample A",
+      "output": "fictional label A"
+    }
+  ],
+  "engineering_notice": "Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials."
+}

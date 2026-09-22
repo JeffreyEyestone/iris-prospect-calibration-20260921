@@ -1,0 +1,20 @@
+{
+  "owner": "Iris Fictional Cedarfall Labs",
+  "classification": "Confidential internal use only proprietary",
+  "description": "MCP server tool manifest agent definition system prompt",
+  "tools": [
+    {
+      "name": "summarize_demo_queue",
+      "description": "Read fictional queue statistics only",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "demo_queue": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  ],
+  "engineering_notice": "Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials."
+}

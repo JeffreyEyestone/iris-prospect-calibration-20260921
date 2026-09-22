@@ -1,0 +1,4 @@
+Iris Fictional Cedarfall Labs
+Public documentation. This intentionally published guide describes an imaginary greeting command. Example: say hello. No internal systems or sensitive information.
+
+Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials.

@@ -1,0 +1,7 @@
+Iris Fictional Cedarfall Labs
+Proprietary source code. Copyright Iris Fictional Cedarfall Labs. Internal use only.
+def allocate_demo_batches(items):
+    return [items[i:i+4] for i in range(0,len(items),4)]
+
+
+Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials.

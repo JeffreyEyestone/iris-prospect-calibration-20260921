@@ -1,0 +1,3 @@
+Public open-source example by Fictional Open Garden Collective. Licensed MIT. def greet(name): return "Hello " + name. Educational sample intended for unrestricted use.
+
+Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials.

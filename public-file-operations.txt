@@ -1,0 +1,4 @@
+Iris Fictional Cedarfall Labs
+Confidential internal use only operations runbook disaster recovery incident response. Fictional sequence: pause the demo generator, inspect the demo queue, ask the operator to restart.
+
+Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials.

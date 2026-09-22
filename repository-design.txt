@@ -1,0 +1,4 @@
+Iris Fictional Cedarfall Labs
+Proprietary source code architecture network diagram internal use only. Fictional router transfers demonstration messages from queue ALPHA to processor BETA; no actual addresses or systems exist.
+
+Fictional engineering scenario. All organizations, systems and records here are invented. No real confidential information or credentials.
